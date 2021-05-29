@@ -9,6 +9,7 @@ This repo contains all the Algorithms which I tried to implement while reading f
 Hoping this makes me a good dev and learner.
 
 Template for Logs:
+
 ```
 ## Logs
 
@@ -22,12 +23,19 @@ Template for Logs:
     <li>code-2</li>
 </ul>
 ```
+```   _  _    _   ___    ___   ____                       ___    __   ____             _       
+ _| || |_ / | / _ \  / _ \ |  _ \   __ _  _   _  ___  / _ \  / _| / ___|  ___    __| |  ___ 
+|_  ..  _|| || | | || | | || | | | / _` || | | |/ __|| | | || |_ | |     / _ \  / _` | / _ \
+|_      _|| || |_| || |_| || |_| || (_| || |_| |\__ \| |_| ||  _|| |___ | (_) || (_| ||  __/
+  |_||_|  |_| \___/  \___/ |____/  \__,_| \__, ||___/ \___/ |_|   \____| \___/  \__,_| \___|
+                                          |___/ 
+```
 Table of What I have to finished so far..
 
-Date       | Topic      | Type| Link
------------|-------------------------------------------------|---------|-------
-28/05/2021 | Algorithms | Bubble-Sort, Selection-Sort, Selection-Sort, Quick-Sort| [Day-0](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-0)
-29/05/2021|Algorithms|Binary sort|[Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1)
+| Date       | Topic      | Type                                                    | Link                                                                      |
+| ---------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 28/05/2021 | Algorithms | Bubble-Sort, Selection-Sort, Selection-Sort, Quick-Sort | [Day-0](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-0) |
+| 29/05/2021 | Algorithm  | Binary Search                                           | [Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1) |
 
 ## Logs:
 
@@ -36,6 +44,7 @@ Date       | Topic      | Type| Link
 #### 1.26 hrs coded (Via Code-Time)
 
 #### Sorting
+
 <ul>
     <li>Bubble Sort</li>
     <li>Selection Sort</li>
@@ -45,4 +54,8 @@ Date       | Topic      | Type| Link
 
 ### Task completed on Day-1 (29/05/2021)
 
-#### ___ hrs coded (Via Code-Time)
+#### ____hrs coded (Via Code-Time)
+
+<ul>
+    <li>Binary Search</li>
+</ul>
