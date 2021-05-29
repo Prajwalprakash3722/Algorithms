@@ -25,9 +25,9 @@ Template for Logs:
 Table of What I have to finished so far..
 
 Date       | Topic      | Type| Link
------------|-------------------------------------------------|---------
+-----------|-------------------------------------------------|---------|-------
 28/05/2021 | Algorithms | Bubble-Sort, Selection-Sort, Selection-Sort, Quick-Sort| [Day-0](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-0)
-29/05/2021|Algorithm|Binary sort|[Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1)
+29/05/2021|Algorithms|Binary sort|[Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1)
 
 ## Logs:
 
@@ -42,8 +42,6 @@ Date       | Topic      | Type| Link
     <li>Selection Sort</li>
     <li>Quick Sort</li>
 </ul>
-
-## Logs:
 
 ### Task completed on Day-1 (29/05/2021)
 
