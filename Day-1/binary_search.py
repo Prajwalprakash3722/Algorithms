@@ -6,11 +6,13 @@ Time complexity:
 Data structures used:
 Result: Successful 
 """
+import time
+
 
 def binary_search(list, element):
-    
+
     start = 0
-    last  = len(list) - 1
+    last = len(list) - 1
     key_element_index = int((start + last)//2)
     key_element = list[key_element_index]
     if x == key_element:
@@ -25,8 +27,12 @@ def binary_search(list, element):
                 if list[i] == element:
                     return i
 
+
 ###############################################################################
 # Driver Code
-arr = [2, 3, 5, 8, 9]
-x = 9
+arr = [2, 3, 5, 8, 9, 11, 22, 56, 45, 56, 59]
+x = 59
+start_time = time.time()
 print("The element in list is found at :", binary_search(arr, x))
+
+print("Process finished --- %s seconds ---" % (time.time() - start_time))

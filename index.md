@@ -1,4 +1,4 @@
-## The Algorithms
+## The Algorithms- #100DaysOfCode (Challenge)
 
 Created on: (28/05/2021)
 
@@ -22,14 +22,19 @@ Template for Logs:
     <li>code-1</li>
     <li>code-2</li>
 </ul>
-```
 
+#### comments:
+```
+Template for Table
+```
+| Date | Topic  | Codes  | [Day-x](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-x) |
+```
 Table of What I have to finished so far..
 
 | Date       | Topic      | Type                                                    | Link                                                                      |
 | ---------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 28/05/2021 | Algorithms | Bubble-Sort, Selection-Sort, Selection-Sort, Quick-Sort | [Day-0](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-0) |
-| 29/05/2021 | Algorithm  | Binary Search                                           | [Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1) |
+| 29/05/2021 | Algorithm  | Linear Search, Binary Search                                           | [Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1) |
 
 ## Logs:
 
@@ -46,10 +51,30 @@ Table of What I have to finished so far..
     <li>Quick Sort</li>
 </ul>
 
+#### comments:
+I thought i can implement all of the sorting algorithms, b
+ut i was only able to implement 2 of them, so i thought I shall revisit the DSA.
+
 ### Task completed on Day-1 (29/05/2021)
 
-#### ____hrs coded (Via Code-Time)
+#### 2.9 hrs coded (Via Code-Time)
 
 <ul>
+    <li>Linear Search</li>
     <li>Binary Search</li>
 </ul>
+
+#### comments:
+I learnt how to calculate the time complexity and why it matters very much.
+
+### Task completed on Day-2 (30/05/2021)
+
+#### ___ hrs coded (Via Code-Time)
+
+#### Topic
+<ul>
+    <li>code-1</li>
+    <li>code-2</li>
+</ul>
+
+#### comments:
