@@ -14,6 +14,7 @@ def linear_search(list, element):
         if element == list[i]:
             return i
 
+
 ###############################################################################
 # Driver Code
 arr = [2, 3, 5, 8, 9, 11, 22, 56, 45, 56, 59]

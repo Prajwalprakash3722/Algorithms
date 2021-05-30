@@ -16,7 +16,7 @@ Template for Logs:
 ```
 ## Logs
 
-### Task completed on Day-x (xx/xx/2021)
+### -> Task completed on Day-x (xx/xx/2021)
 
 #### ___ hrs coded (Via Code-Time)
 
@@ -38,10 +38,10 @@ Table of What I have to finished so far..
 | ---------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 28/05/2021 | Algorithms | Bubble-Sort, Selection-Sort, Selection-Sort, Quick-Sort | [Day-0](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-0) |
 | 29/05/2021 | Algorithm  | Linear Search, Binary Search                                           | [Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1) |
-
+| 30/05/2021 | DSA  | exponential Search (not-successful), Strings  | [Day-2](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-2) |
 ## Logs:
 
-### Task completed on Day-0 (28/05/2021)
+### -> Task completed on Day-0 (28/05/2021)
 
 #### 1.26 hrs coded (Via Code-Time)
 
@@ -58,7 +58,7 @@ Table of What I have to finished so far..
 I thought i can implement all of the sorting algorithms, b
 ut i was only able to implement 2 of them, so i thought I shall revisit the DSA.
 
-### Task completed on Day-1 (29/05/2021)
+### -> Task completed on Day-1 (29/05/2021)
 
 #### 2.9 hrs coded (Via Code-Time)
 
@@ -70,7 +70,19 @@ ut i was only able to implement 2 of them, so i thought I shall revisit the DSA.
 #### comments:
 I learnt how to calculate the time complexity and why it matters very much.
 
-### Task completed on Day-2 (30/05/2021)
+### -> Task completed on Day-2 (30/05/2021)
+
+#### 0.19 hrs coded (Via Code-Time)
+
+#### Topic
+<ul>
+    <li>exponential Search (not-successful)</li>
+    <li> String Manipulation </li>
+</ul>
+
+#### comments: Was not in the mood to code anything, But still i tried to read from book.
+
+### -> Task completed on Day-3 (31/05/2021)
 
 #### ___ hrs coded (Via Code-Time)
 

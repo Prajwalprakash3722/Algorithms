@@ -8,11 +8,11 @@ Data structures used:
 
 
 def bubble_sort(list1, n):
-    
+
     for i in range(1, n):
-        for j in range(n-i-1):
-            if list1[j] > list1[j+1]:
-                list1[j], list1[j+1] = list1[j+1], list1[j]
+        for j in range(n - i - 1):
+            if list1[j] > list1[j + 1]:
+                list1[j], list1[j + 1] = list1[j + 1], list1[j]
                 return list1
 
 
