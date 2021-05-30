@@ -37,8 +37,8 @@ Table of What I have to finished so far..
 | Date       | Topic      | Type                                                    | Link                                                                      |
 | ---------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 28/05/2021 | Algorithms | Bubble-Sort, Selection-Sort, Selection-Sort, Quick-Sort | [Day-0](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-0) |
-| 29/05/2021 | Algorithm  | Linear Search, Binary Search                                           | [Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1) |
-| 30/05/2021 | DSA  | exponential Search (not-successful), Strings  | [Day-2](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-2) |
+| 29/05/2021 | Algorithm  | Linear Search, Binary Search                            | [Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1) |
+| 30/05/2021 | DSA        | exponential Search (not-successful), Strings            | [Day-2](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-2) |
 ## Logs:
 
 ### -> Task completed on Day-0 (28/05/2021)
