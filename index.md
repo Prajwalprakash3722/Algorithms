@@ -41,6 +41,7 @@ Table of What I have to finished so far..
 | 28/05/2021 | Algorithms | Bubble-Sort, Selection-Sort, Selection-Sort, Quick-Sort | [Day-0](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-0) |
 | 29/05/2021 | Algorithm  | Linear Search, Binary Search                            | [Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1) |
 | 30/05/2021 | DSA        | exponential Search (not-successful), Strings            | [Day-2](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-2) |
+| 31/05/2021 | Web  | none  | [Day-3](https://github.com/Prajwalprakash3722)
 
 ## Logs:
 
@@ -99,9 +100,9 @@ I learnt how to calculate the time complexity and why it matters very much.
     <li>Personal Site</li>
 </ul>
 
-#### comments: I did myself a new personal site and also updated the sattva site.
+#### comments: I did myself a new personal [site](https://prajwalprakash3722.github.io/) and also updated the sattva site.
 
-### -> Task completed on Day-3 (31/05/2021)
+### -> Task completed on Day-4 (1/06/2021)
 
 #### \_\_\_ hrs coded (Via Code-Time)
 
