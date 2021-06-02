@@ -36,12 +36,14 @@ Template for Table
 
 Table of What I have to finished so far..
 
-| Date       | Topic      | Type                                                    | Link                                                                      |
-| ---------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 28/05/2021 | Algorithms | Bubble-Sort, Selection-Sort, Selection-Sort, Quick-Sort | [Day-0](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-0) |
-| 29/05/2021 | Algorithm  | Linear Search, Binary Search                            | [Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1) |
-| 30/05/2021 | DSA        | exponential Search (not-successful), Strings            | [Day-2](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-2) |
-| 31/05/2021 | Web  | none  | [Day-3](https://github.com/Prajwalprakash3722)
+| Date       | Topic              | Type                                                    | Link                                                                      |
+| ---------- | ------------------ | ------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 28/05/2021 | Algorithms         | Bubble-Sort, Selection-Sort, Selection-Sort, Quick-Sort | [Day-0](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-0) |
+| 29/05/2021 | Algorithm          | Linear Search, Binary Search                            | [Day-1](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-1) |
+| 30/05/2021 | DSA                | exponential Search (not-successful), Strings            | [Day-2](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-2) |
+| 31/05/2021 | Web                | none                                                    | [Day-3](https://github.com/Prajwalprakash3722)                            |
+| 01/06/2021 | Algorithms and DSA | recursive, linked list                                  | [Day-4](https://github.com/Prajwalprakash3722/Algorithms/tree/main/Day-4) |
+| 02/06/2021 | Data Structures    | Linked lists, tuple                                     | [Day-5](https://github.com/Prajwalprakash3722/)                           |
 
 ## Logs:
 
@@ -103,6 +105,33 @@ I learnt how to calculate the time complexity and why it matters very much.
 #### comments: I did myself a new personal [site](https://prajwalprakash3722.github.io/) and also updated the sattva site.
 
 ### -> Task completed on Day-4 (1/06/2021)
+
+#### 2.26 hrs coded (Via Code-Time)
+
+#### Algorithms and DSA
+
+<ul>
+    <li>Recursive functions</li>
+    <li>Linked Lists</li>
+</ul>
+
+#### comments: I learnt more about recursive functions and linked lists.
+
+### -> Task completed on Day-5 (02/06/2021)
+
+#### 2.15 hrs coded (Via Code-Time)
+
+#### Data Structures
+
+<ul>
+    <li>Linked Lists</li>
+    <li>Tuple</li>
+    <li>Wrote a post about Open-CV</li> 
+</ul>
+
+#### comments: I learnt more about Linked lists and wrote a article about Open-CV.
+
+### -> Task completed on Day-6 (03/06/2021)
 
 #### \_\_\_ hrs coded (Via Code-Time)
 
